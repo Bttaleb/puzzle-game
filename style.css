@@ -1,0 +1,25 @@
+td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.tile1  { background-color: lightblue; }
+.tile2  { background-color: lightblue; }
+.tile3  { background-color: lightblue; }
+.tile4  { background-color: lightblue; }
+.tile5  { background-color: lightblue; }
+.tile6  { background-color: lightblue; }
+.tile7  { background-color: lightblue; }
+.tile8  { background-color: lightblue; }
+.tile9  { background-color: lightblue; }
+.tile10 { background-color: lightblue; }
+.tile11 { background-color: lightblue; }
+.tile12 { background-color: lightblue; }
+.tile13 { background-color: lightblue; }
+.tile14 { background-color: lightblue; }
+.tile15 { background-color: lightblue; }
+.tile16 { background-color: white; }
