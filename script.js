@@ -174,5 +174,3 @@ function clickTile(row, col) {
     }
   }
 }
-
-newGame();
